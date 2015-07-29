@@ -17,7 +17,7 @@ Once you install and activate the EDD First Time Buyer's Gift plugin, you will b
 
 = Install Automatically =
 
-1. Search for WooCommerce Add to Cart Custom Redirect in the Add New Plugin section of the WordPress admin
+1. Search for EDD First Time Buyer's Gift in the Add New Plugin section of the WordPress admin
 2. Install & Activate
 
 = Install Manually =
